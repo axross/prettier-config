@@ -1,0 +1,21 @@
+{
+  "name": "@axross/prettier-config",
+  "version": "0.1.0",
+  "main": "prettier.config.js",
+  "files": [
+    "prettier.config.js"
+  ],
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "prettier-plugin-tailwindcss": "^0.4.0"
+  },
+  "devDependencies": {
+    "@axross/eslint-config": "^0.0.1",
+    "eslint": "^8.45.0",
+    "prettier": "^2.8.8"
+  }
+}
