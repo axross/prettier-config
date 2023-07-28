@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/axross/prettier-config/compare/v1.0.0...v1.1.0) (2023-07-28)
+
+
+### Features
+
+* remove tailwind plugin ([e7a7361](https://github.com/axross/prettier-config/commit/e7a736199939a5fe3e143863ca28be2f84b30af7))
+
 # 1.0.0 (2023-07-19)
 
 
