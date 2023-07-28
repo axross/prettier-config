@@ -10,8 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
-    "prettier-plugin-tailwindcss": "^0.4.0"
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1"
   },
   "devDependencies": {
     "@axross/eslint-config": "^1.1.0",
