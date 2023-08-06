@@ -13,8 +13,8 @@
     "@trivago/prettier-plugin-sort-imports": "^4.1.1"
   },
   "devDependencies": {
-    "@axross/eslint-config": "^1.1.0",
+    "@axross/eslint-config": "^1.3.1",
     "eslint": "^8.45.0",
-    "prettier": "^2.8.8"
+    "prettier": "^3.0.1"
   }
 }
