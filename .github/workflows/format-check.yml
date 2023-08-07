@@ -1,0 +1,14 @@
+name: Code Format Check
+on:
+  - pull_request
+jobs:
+  validation:
+    name: Validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+      - name: Check code format with Prettier
+        run: npx prettier --check .

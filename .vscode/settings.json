@@ -1,0 +1,15 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "prettier.prettierPath": "./node_modules/prettier",
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
