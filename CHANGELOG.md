@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/axross/prettier-config/compare/v1.1.0...v1.2.0) (2023-08-07)
+
+
+### Bug Fixes
+
+* update internal dependencies ([6289396](https://github.com/axross/prettier-config/commit/62893962febf502e80b75ef09ef340be55b8ab9a))
+
+
+### Features
+
+* rename prettier.config.js -> .mjs ([840f5a0](https://github.com/axross/prettier-config/commit/840f5a0aeefc29b4cad24f7a9c601663c72a0e6c))
+
 # [1.1.0](https://github.com/axross/prettier-config/compare/v1.0.0...v1.1.0) (2023-07-28)
 
 
