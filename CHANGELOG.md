@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/axross/prettier-config/compare/v1.2.0...v1.3.0) (2023-08-22)
+
+
+### Features
+
+* use cjs ([#1](https://github.com/axross/prettier-config/issues/1)) ([d7742eb](https://github.com/axross/prettier-config/commit/d7742ebbeaa86eeced2f32f443c119a922e733f8))
+
 # [1.2.0](https://github.com/axross/prettier-config/compare/v1.1.0...v1.2.0) (2023-08-07)
 
 ### Bug Fixes
