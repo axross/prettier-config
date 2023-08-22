@@ -1,7 +1,7 @@
 {
   "name": "@axross/prettier-config",
   "version": "1.2.0",
-  "main": "prettier.config.mjs",
+  "main": "prettier.config.cjs",
   "files": [
     "prettier.config.mjs"
   ],
