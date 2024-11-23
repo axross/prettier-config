@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/axross/prettier-config/compare/v1.3.0...v1.4.0) (2024-11-23)
+
+
+### Features
+
+* update supporting prettier version and optional plugins ([04b4896](https://github.com/axross/prettier-config/commit/04b48965ec77fb2ce0057d997f783f74d2d9fa29))
+
 # [1.3.0](https://github.com/axross/prettier-config/compare/v1.2.0...v1.3.0) (2023-08-22)
 
 
