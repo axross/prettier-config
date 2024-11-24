@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/axross/prettier-config/compare/v1.4.0...v1.4.1) (2024-11-24)
+
+
+### Bug Fixes
+
+* wrong files entry in package.json ([e7e96e3](https://github.com/axross/prettier-config/commit/e7e96e35c86f34e31d2c1840fe5b320e46ececf1))
+
 # [1.4.0](https://github.com/axross/prettier-config/compare/v1.3.0...v1.4.0) (2024-11-23)
 
 
