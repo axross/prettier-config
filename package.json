@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "main": "prettier.config.cjs",
   "files": [
-    "prettier.config.mjs"
+    "prettier.config.cjs"
   ],
   "scripts": {
     "format": "prettier --write ."
